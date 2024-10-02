@@ -10,7 +10,8 @@
 - **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
 - **WhatsApp**: [+8619708819040](https://wa.me/8619708819040)
 
-
+<div aline="center"> 
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alraimi)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Al-rimi)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24881320)
@@ -18,7 +19,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ak-71)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ggak71)
 
-
+</div>
 
 ## Support Me
 
