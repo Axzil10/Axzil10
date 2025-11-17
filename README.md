@@ -1,32 +1,15 @@
 ## About Me
 
-- **Full-Stack Development:** Experienced in <code>Laravel</code> <code>PHP</code> <code>Blade</code> <code>Node.js</code> <code>Tailwind</code> since 2022.
-- **Computer Science:** Studying at Zhejiang Normal University, expected to graduate in 2027.
-- **Multilingual:** Fluent in English, Arabic, and Chinese.
+- **Full-Stack Development:** Building with <code>python</code> <code>Node.js</code> <code>JavaScript</code>  <code>Vue.js</code> <code>CSS</code>  <code>HTML</code> <code> SQL</code> building databases, servers, and APIs 
+- **Computer Science:** Student at Zhejiang Normal University,
+-**Multilingual:** Fluent in English, Arabic, Somali, and Chinese.
+- **My Hoppies if im not coding im playing football or swimming 
 
 
-#### How to Reach Me
+#### come say hello Let's code the future together!💻
 
-- **Email**: [abdullah@syalux.com](mailto:abdullah@syalux.com)
-- **WhatsApp**: [+8619708819040](https://wa.me/8619708819040)
+- **Email**: [axziltube@gmail.com](mailto:axziltube@gmail.com)
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alraimi)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Al-rimi)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24881320)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ak._.71)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ak-71)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ggak71)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axzil_jr)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black)](https://snapchat.com/add/axzil_jr)
 
-</div>
-
-## Support Me
-
-<div align="center">
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alrimi)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rumaisaalrimi)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alrimi) 
-
-</div>
